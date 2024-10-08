@@ -1,0 +1,17 @@
+.mobile-screen {
+  border: 2px solid #ccc;
+  padding: 20px;
+  width: 50%;
+  margin: 20px auto;
+  background-color: #f1f1f1;
+}
+
+.mobile-screen input {
+  margin: 10px;
+  padding: 5px;
+}
+
+.mobile-screen .message {
+  margin: 10px 0;
+  font-weight: bold;
+}

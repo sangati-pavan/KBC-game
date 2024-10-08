@@ -1,0 +1,19 @@
+.main-screen {
+  border: 2px solid #ccc;
+  padding: 20px;
+  width: 60%;
+  margin: 20px auto;
+  background-color: #f9f9f9;
+}
+
+.main-screen ul {
+  list-style: none;
+  padding: 0;
+}
+
+.main-screen li {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ddd;
+  display: inline-block;
+}
